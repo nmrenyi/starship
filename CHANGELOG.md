@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.13.0](https://github.com/starship/starship/compare/v1.12.0...v1.13.0) (2022-12-25)
+
+
+### Features
+
+* **fennel:** add fennel module ([#4717](https://github.com/starship/starship/issues/4717)) ([e93dbf8](https://github.com/starship/starship/commit/e93dbf86301e19a89bd64997d95ba63a64f473aa))
+* **gradle:** add gradle module ([#4423](https://github.com/starship/starship/issues/4423)) ([220844d](https://github.com/starship/starship/commit/220844daa014046bedbc9ce703f8b18fbe267e3c))
+
+
+### Bug Fixes
+
+* **git_commit:** fix potential test failure ([#4734](https://github.com/starship/starship/issues/4734)) ([27d167b](https://github.com/starship/starship/commit/27d167b7a202cd1da39a731813df155dacb4c81b))
+* Remove vulnerable time-0.1.x chrono dependency ([#4750](https://github.com/starship/starship/issues/4750)) ([255f91c](https://github.com/starship/starship/commit/255f91c3ce896f71b874f260b61f86232485d823))
+
 ## [1.12.0](https://github.com/starship/starship/compare/v1.11.0...v1.12.0) (2022-12-13)
 
 
